@@ -1,5 +1,10 @@
 # NgTravis
 
+Angular 6 and Travis automation
+
+![Build Status](https://travis-ci.org/aboudard/ngTravis.svg?branch=master)
+https://travis-ci.org/aboudard/ngTravis
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
 ## Development server
